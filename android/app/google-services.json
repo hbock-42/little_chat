@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630283621521",
+    "firebase_url": "https://little-chat-77.firebaseio.com",
+    "project_id": "little-chat-77",
+    "storage_bucket": "little-chat-77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630283621521:android:bfb37eaff4b997f55c5b30",
+        "android_client_info": {
+          "package_name": "com.example.little_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630283621521-vsph4cu9r1d3qq2ugo3k8hm1ek8lhk7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5khOszNSZimUlbfO95d3SkV-shu_v3A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630283621521-vsph4cu9r1d3qq2ugo3k8hm1ek8lhk7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630283621521-c4bc6qlvvdhf6ijjj8mln05du76lo6ri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.littleChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
