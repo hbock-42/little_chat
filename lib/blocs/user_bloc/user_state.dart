@@ -8,10 +8,12 @@ abstract class UserState extends Equatable {
 
 class NotLogged extends UserState {}
 
-class UserLogged extends UserState {
+class LoginError extends UserState {}
+
+class LoginSuccessful extends UserState {
   final FirebaseUser user;
 
-  const UserLogged(this.user);
+  const LoginSuccessful(this.user);
 
   @override
   List<Object> get props => [user];
